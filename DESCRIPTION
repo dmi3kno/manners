@@ -7,3 +7,5 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
+URL: https://github.com/dmi3kno/manners
+BugReports: https://github.com/dmi3kno/manners/issues
